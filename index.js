@@ -37620,8 +37620,7 @@ const oM = [
       description: "Delivered a professional freelance project for a quality inspection company, creating a comprehensive business website",
       image: "images/projects/theiqic.jpeg",
       tags: ["javascript", "html", "css", "freelance"],
-      liveview: "https://theiqic.com/",
-      // github: "https://github.com/satvik9373/coffee-website-.git",
+      liveview: null,
       alt: "Coffee Shop Website",
     },
     {
@@ -37630,7 +37629,7 @@ const oM = [
       description: "a block-based photo sharing system inspired by the historic Million Dollar Homepage concept",
       image: "images/projects/krushigram.png",
       tags: ["react", "express", "multer", "googleAuth","Cloudinery"],
-      liveview: "https://venchers-campaign.vercel.app/",
+      liveview: null,
       alt: "venchers campaign",
     },
     {
@@ -37639,8 +37638,7 @@ const oM = [
       description: "UI component library featuring 20+ reusable components, text animations, background animations, loading page elements, and interactive UI element ",
       image: "images/projects/vaporui.jpeg",
       tags: ["javascript", "react", "ui","framer"],
-      liveview: "https://vapor-ui.vercel.app/",
-      // github: "https://github.com/satvik9373/yoga-class.git",
+      liveview: null,
       alt: "Fitness Institute",
     },
     {
@@ -37649,8 +37647,7 @@ const oM = [
       description: "Quick labs is an LMS developed for teaching assistants at my university to provide lab solutions, manage materials, and support students.",
       image: "images/projects/studybuddy.jpeg",
       tags: ["javascript", "react", "mongodb", ""],
-      liveview: "http://quicklabs.fun/",
-      // github: "https://github.com/satvik9373/Think-Beyond-Marketing",
+      liveview: null,
       alt: "Digital Marketing Agency",
     },
     {
@@ -37659,8 +37656,7 @@ const oM = [
       description: "Open Talk is a platform where people can share their achievements and hacks, allowing others to like or dislike them without needing an account.",
       image: "images/projects/opentalk.jpeg",
       tags: ["react", "mongodb", "express"],
-      liveview: "https://opentalk1.netlify.app/",
-      // github: "https://github.com/satvik9373/lms-websitee",
+      liveview: null,
       alt: "Affiliate Marketing and earning Website",
     },
   ],
